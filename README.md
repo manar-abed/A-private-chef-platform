@@ -39,3 +39,5 @@ Macato allows users to hire a personal chef to come and cook for them at home in
   - update or delete my profile information.
   - submit offers and discounts for my customers.
   - submit feedback for my customers.
+## User Flow
+![image](https://user-images.githubusercontent.com/79801554/169754322-5bd3fa33-7d0d-4940-9351-a4d181c8b175.png)
